@@ -1,8 +1,8 @@
 # Hawigo-Mozzi-FM-Arduino-VCO
 
-This is a simple 1 pcb+panel design using Hawigo's Mozzi library based Arduino FM VCO . 
-It's a simple , straight drop in panel with smd components and no cover plate. 
-This project is not my design or software. It is just a simple, cheap pcb, using HAWIGO's original work . 
+This is a simple 1 pcb+panel design using Hawigo's Mozzi library based Arduino FM VCO .
+t's a straight drop in eurorack size panel with smd components and no cover plate.
+This project is not my design nor software. It is just a basic,cheap pcb, using HAWIGO's original work. 
 
 ![20230214_230013](https://user-images.githubusercontent.com/42693458/218882665-c96f752d-ffca-4a08-a546-ddc22298d33b.jpg)
 
