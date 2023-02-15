@@ -11,6 +11,7 @@ Cost for a 5 batch (5 is a minimum order) from jlcpcb or pcbway should be in the
 ![20230214_230013](https://user-images.githubusercontent.com/42693458/218882665-c96f752d-ffca-4a08-a546-ddc22298d33b.jpg)
 
 You can find all info on this project, schematics, code and info here (please support Hagiwo's work if you can) : https://note.com/solder_state/n/n88317851a4c7
+NOTE: This board also works on the Additive VCO module. Same circuit, different code: https://note.com/solder_state/n/n30b3a8737b1e 
 
 All you need for this project is the code (see Hagiwo's page above) to program the arduino.
 You then can use the gerber and BOM to order the parts for your project, idealy pre-soldered SMD components.
