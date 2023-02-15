@@ -17,5 +17,5 @@ You then can use the gerber and BOM to order the parts for your project, idealy 
 
 ![20230214_230013 - Copy](https://user-images.githubusercontent.com/42693458/218890414-6004a66f-2f8a-4683-8259-bd8ab6d58282.jpg)
 
-You will then need to source and manually solder a 16 pin IDE connector, 3 100k pots and 5 audio connector to complete the project...
+You will then need to source and manually solder a 16 pin IDE connector, 3 100k pots and 4 audio connector to complete the project...
 and enjoy
